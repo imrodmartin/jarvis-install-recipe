@@ -1,0 +1,17 @@
+{
+    "name": "imrodmartin/jarvis-install-recipe",
+    "description": "Drupal recipe that adds the Jarvis theme to a site that ALREADY has its own config: the theme, Drupal Canvas with folders/patterns/templates, the jarvis_* media type, image styles and text formats. Namespaced throughout and non-strict, so your existing config is never overwritten. Unlike imrodmartin/jarvis-recipe it installs no demo content and takes over nothing - it does not switch your default theme, admin theme or front page.",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/imrodmartin/jarvis-bootstrap-recipe",
+    "require": {
+        "php": ">=8.3",
+        "drupal/jarvis": "^2.2",
+        "imrodmartin/jarvis-modules": "^1.2",
+        "drupal/canvas": "^1.8",
+        "drupal/crop": "^2.6",
+        "drupal/focal_point": "^2.1",
+        "drupal/linkit": "^7.0",
+        "drupal/twig_tweak": "^3.4"
+    }
+}
