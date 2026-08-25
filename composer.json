@@ -6,8 +6,8 @@
     "homepage": "https://github.com/imrodmartin/jarvis-bootstrap-recipe",
     "require": {
         "php": ">=8.3",
-        "drupal/jarvis": "^2.3",
-        "imrodmartin/jarvis-modules": "^2.0",
+        "drupal/jarvis": "^3.0",
+        "imrodmartin/jarvis-modules": "^2.1",
         "drupal/canvas": "^1.8",
         "drupal/crop": "^2.6",
         "drupal/focal_point": "^2.1",
