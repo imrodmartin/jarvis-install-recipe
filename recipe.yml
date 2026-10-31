@@ -59,7 +59,7 @@ config:
   #
   # The trade-off is silence. Where your site already owns one of these names,
   # its version stays and ours never lands, with no warning. The exposure is
-  # much smaller here than in recipes/jarvis — 66 files, nearly all namespaced
+  # much smaller here than in recipes/jarvis — 68 files, nearly all namespaced
   # `jarvis*` — but see README for the ones that are not. The media types are
   # the deliberate exception: core's own `image`, `remote_video`, `video` and
   # `document`, because contrib assumes those names, so on a site that already
