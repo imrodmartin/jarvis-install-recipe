@@ -9,9 +9,12 @@
         "drupal/jarvis": "^4.4.1",
         "imrodmartin/jarvis-modules": "^2.3.3",
         "drupal/canvas": "^1.8",
+        "drupal/captcha": "^2.0",
         "drupal/crop": "^2.6",
         "drupal/focal_point": "^2.1",
         "drupal/linkit": "^7.0",
+        "drupal/pathauto": "^1.15",
+        "drupal/redirect": "^1.11",
         "drupal/twig_tweak": "^3.4"
     }
 }
